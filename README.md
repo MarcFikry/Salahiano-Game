@@ -6,7 +6,7 @@ In the game, you control football star **Mohamed Salah**, who must catch falling
 
 ---
 
-## 🎮 Gameplay Demo
+## Gameplay Demo
 
 Watch the game in action:  
 [▶️ Gameplay Video on YouTube](https://youtu.be/G9OJVePkTLw?feature=shared)
