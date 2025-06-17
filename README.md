@@ -26,7 +26,7 @@ Watch the game in action:
 
 1. Open the `.sb3` file in the [Scratch 3.0 editor](https://scratch.mit.edu) (online or desktop).
 2. Click the green flag to start.
-3. Use the arrow keys (or on-screen controls) to move Salah.
+3. Use the arrow keys to move Salah.
 4. Catch as many balls as you can!
 
 ---
